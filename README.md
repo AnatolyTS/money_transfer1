@@ -11,7 +11,7 @@
 ## Результаты
 
 1. 100% не успешный тест
-2. [Ошибка пополнения счета](https://github.com/AnatolyTS/money_transfer/issues/1)
+2. [Ошибка пополнения счета](https://github.com/AnatolyTS/money_transfer1/issues/1)
 
 ## Общие рекомендации
 
